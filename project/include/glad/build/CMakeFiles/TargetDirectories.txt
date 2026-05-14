@@ -1,0 +1,7 @@
+/home/srikrishnav/Documents/Code/Conifer/glad/build/CMakeFiles/gladlib.dir
+/home/srikrishnav/Documents/Code/Conifer/glad/build/CMakeFiles/edit_cache.dir
+/home/srikrishnav/Documents/Code/Conifer/glad/build/CMakeFiles/rebuild_cache.dir
+/home/srikrishnav/Documents/Code/Conifer/glad/build/CMakeFiles/list_install_components.dir
+/home/srikrishnav/Documents/Code/Conifer/glad/build/CMakeFiles/install.dir
+/home/srikrishnav/Documents/Code/Conifer/glad/build/CMakeFiles/install/local.dir
+/home/srikrishnav/Documents/Code/Conifer/glad/build/CMakeFiles/install/strip.dir

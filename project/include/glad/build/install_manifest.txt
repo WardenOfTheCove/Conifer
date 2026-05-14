@@ -1,0 +1,2 @@
+/usr/local/lib/libgladlib.a
+/usr/local/include/gladlib/glad.h

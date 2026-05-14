@@ -1,0 +1,7 @@
+/home/srikrishnav/Documents/Code/OWRPG/project/include/window/build/CMakeFiles/winlib.dir
+/home/srikrishnav/Documents/Code/OWRPG/project/include/window/build/CMakeFiles/edit_cache.dir
+/home/srikrishnav/Documents/Code/OWRPG/project/include/window/build/CMakeFiles/rebuild_cache.dir
+/home/srikrishnav/Documents/Code/OWRPG/project/include/window/build/CMakeFiles/list_install_components.dir
+/home/srikrishnav/Documents/Code/OWRPG/project/include/window/build/CMakeFiles/install.dir
+/home/srikrishnav/Documents/Code/OWRPG/project/include/window/build/CMakeFiles/install/local.dir
+/home/srikrishnav/Documents/Code/OWRPG/project/include/window/build/CMakeFiles/install/strip.dir
