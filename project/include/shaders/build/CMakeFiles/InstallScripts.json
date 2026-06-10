@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/srikrishnav/Code/Conifer/project/include/shaders/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

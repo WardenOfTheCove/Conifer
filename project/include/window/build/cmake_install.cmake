@@ -1,4 +1,4 @@
-# Install script for directory: /home/srikrishnav/Documents/Code/OWRPG/project/include/window
+# Install script for directory: /home/srikrishnav/Code/Conifer/project/include/window
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -29,7 +29,7 @@ endif()
 
 # Install shared libraries without execute permission?
 if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
-  set(CMAKE_INSTALL_SO_NO_EXE "1")
+  set(CMAKE_INSTALL_SO_NO_EXE "0")
 endif()
 
 # Is this installation the result of a crosscompile?
@@ -43,17 +43,17 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/srikrishnav/Documents/Code/OWRPG/project/include/window/build/libwinlib.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/srikrishnav/Code/Conifer/project/include/window/build/libwinlib.a")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/winlib" TYPE FILE FILES "/home/srikrishnav/Documents/Code/OWRPG/project/include/window/window.hpp")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/winlib" TYPE FILE FILES "/home/srikrishnav/Code/Conifer/project/include/window/window.hpp")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/home/srikrishnav/Documents/Code/OWRPG/project/include/window/build/install_local_manifest.txt"
+  file(WRITE "/home/srikrishnav/Code/Conifer/project/include/window/build/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -69,6 +69,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/home/srikrishnav/Documents/Code/OWRPG/project/include/window/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/home/srikrishnav/Code/Conifer/project/include/window/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

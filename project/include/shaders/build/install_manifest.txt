@@ -1,0 +1,2 @@
+/usr/local/lib/libshaders.a
+/usr/local/include/shaders/shader.hpp

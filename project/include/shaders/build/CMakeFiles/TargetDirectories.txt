@@ -1,0 +1,7 @@
+/home/srikrishnav/Code/Conifer/project/include/shaders/build/CMakeFiles/shaders.dir
+/home/srikrishnav/Code/Conifer/project/include/shaders/build/CMakeFiles/edit_cache.dir
+/home/srikrishnav/Code/Conifer/project/include/shaders/build/CMakeFiles/rebuild_cache.dir
+/home/srikrishnav/Code/Conifer/project/include/shaders/build/CMakeFiles/list_install_components.dir
+/home/srikrishnav/Code/Conifer/project/include/shaders/build/CMakeFiles/install.dir
+/home/srikrishnav/Code/Conifer/project/include/shaders/build/CMakeFiles/install/local.dir
+/home/srikrishnav/Code/Conifer/project/include/shaders/build/CMakeFiles/install/strip.dir

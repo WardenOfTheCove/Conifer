@@ -1,0 +1,2 @@
+/usr/local/lib/libwinlib.a
+/usr/local/include/winlib/window.hpp

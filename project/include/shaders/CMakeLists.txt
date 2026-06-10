@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.23)
+project(shaders)
+add_library(shaders STATIC shader.cpp)
+set_target_properties(shaders PROPERTIES PUBLIC_HEADER shader.hpp)
+install(TARGETS shaders LIBRARY DESTINATION lib PUBLIC_HEADER DESTINATION include/shaders)
